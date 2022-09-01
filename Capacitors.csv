@@ -46,3 +46,4 @@ GRM1885C1Y390J,GRM1885C1Y390J,Murata,Capacitor,CAPACITOR_0603,\SCH\Capacitor.Sch
 GRM188R61A225K,GRM188R61A225K,Murata,Capacitor,CAPACITOR_0603,\SCH\Capacitor.SchLib,\PCB\Capacitor.PcbLib,"2,2 мкФ",±10%,0603,X5R,-55 to +85°C,10 V,,Datasheet
 GRM188R71H102KA01D,GRM188R71H102KA01D,Murata,Capacitor,CAPACITOR_0603,\SCH\Capacitor.SchLib,\PCB\Capacitor.PcbLib,1000 пФ,±10%,0603,X7R,-55 to +125°C,50 V,,Datasheet
 GRM188R71H104KA93,GRM188R71H104KA93,Murata,Capacitor,CAPACITOR_0603,\SCH\Capacitor.SchLib,\PCB\Capacitor.PcbLib,"0,1 мкФ",±10%,0603,X7R,-55 to +125°C,50 V,,Datasheet
+GRM55555,GRM55555,Murata,Capacitor,CAPACITOR_0603,\SCH\Capacitor.SchLib,\PCB\Capacitor.PcbLib,"0,5 пФ",±10%,0603,X7R,-55 to +125°C,50 V,,Datasheet
