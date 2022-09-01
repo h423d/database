@@ -1,0 +1,68 @@
+ID,Part Number,Manufacture,Library Ref,Footprint Ref,Library Path,Footprint Path,Value,Tolerance,Size,Power,ComponentLink1URL,ComponentLink1Description
+RC0805JR-07680RL,RC0805JR-07680RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-1,27 êÎì±1%-Ì","Ð1-12-0,125-1,27 êÎì±1%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-100 Îì±5%-Ì","Ð1-12-0,125-100 Îì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-47 Îì±5%-Ì","Ð1-12-0,125-47 Îì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-82 Îì±5%-Ì","Ð1-12-0,125-82 Îì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-30 êÎì±5%-Ì","Ð1-12-0,125-30 êÎì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-100 êÎì±5%-Ì","Ð1-12-0,125-100 êÎì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-620 êÎì±5%-Ì","Ð1-12-0,125-620 êÎì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-120 êÎì±5%-Ì","Ð1-12-0,125-120 êÎì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-3,32 Îì±2%-Ì","Ð1-12-0,125-3,32 Îì±2%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-3,57 Îì±2%-Ì","Ð1-12-0,125-3,57 Îì±2%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-301 Îì±1%-Ë","Ð1-12-0,125-301 Îì±1%-Ë",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-487 Îì±1%-Ë","Ð1-12-0,125-487 Îì±1%-Ë",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-1,5 êÎì±1%-Ë","Ð1-12-0,125-1,5 êÎì±1%-Ë",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-120 Îì±5%-Ì","Ð1-12-0,125-120 Îì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-620 Îì±5%-Ì","Ð1-12-0,125-620 Îì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-1,0 êÎì±5%-Ì","Ð1-12-0,125-1,0 êÎì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-1,5 êÎì±5%-Ì","Ð1-12-0,125-1,5 êÎì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-430 Îì±5%-Ì","Ð1-12-0,125-430 Îì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-510 êÎì±5%-Ì","Ð1-12-0,125-510 êÎì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-3,9 êÎì±5%-Ì","Ð1-12-0,125-3,9 êÎì±5%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+"Ð1-12-0,125-1 êÎì±1%-Ë-À","Ð1-12-0,125-1 êÎì±1%-Ë-À",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-1,5 êÎì±1%-Ì-À","Ð1-12-0,125-1,5 êÎì±1%-Ì-À",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-10 êÎì±1%-Ë-À","Ð1-12-0,125-10 êÎì±1%-Ë-À",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-120 Îì±1%-Ë-À","Ð1-12-0,125-120 Îì±1%-Ë-À",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-150 êÎì±1%-Ë-À","Ð1-12-0,125-150 êÎì±1%-Ë-À",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-20 êÎì±1%-Ë-À","Ð1-12-0,125-20 êÎì±1%-Ë-À",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-27 êÎì±1%-Ë-À","Ð1-12-0,125-27 êÎì±1%-Ë-À",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-3,3 êÎì±1%-Ë-À","Ð1-12-0,125-3,3 êÎì±1%-Ë-À",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-330 Îì±1%-Ë-À","Ð1-12-0,125-330 Îì±1%-Ë-À",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-390 Îì±1%-Ë-À","Ð1-12-0,125-390 Îì±1%-Ë-À",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-4,7 êÎì±1%-Ë-À","Ð1-12-0,125-4,7 êÎì±1%-Ë-À",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-470 Îì±1%-Ë-À","Ð1-12-0,125-470 Îì±1%-Ë-À",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-5,1 êÎì±1%-Ë-À","Ð1-12-0,125-5,1 êÎì±1%-Ë-À",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-22,6 Îì ±1 %-Í","Ð1-12-0,125-22,6 Îì ±1 %-Í",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-22,1 Îì ±1 %-Í","Ð1-12-0,125-22,1 Îì ±1 %-Í",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-40,2 Îì ±1 %-Í","Ð1-12-0,125-40,2 Îì ±1 %-Í",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±1%,805,0.125,,Datasheet
+"Ð1-12-0,125-0,15 Îì±20%-""À""","Ð1-12-0,125-0,15 Îì±20%-""À""",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±20%,805,0.125,,Datasheet
+"Ð1-12-0,125-1,6 êÎì±10%-Ì","Ð1-12-0,125-1,6 êÎì±10%-Ì",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±10%,805,0.125,,Datasheet
+RC0805JR-076K8L,RC0805JR-076K8L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-07680RL,RC0805JR-07680RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-075K1L,RC0805JR-075K1L,YAGEO,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-074K7L,RC0805JR-074K7L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-074K3L,RC0805JR-074K3L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-07470RL,RC0805JR-07470RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-073KL,RC0805JR-073KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 êÎì,±5%,805,0.125,,Datasheet
+RC0805JR-073K6L,RC0805JR-073K6L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-073K3L,RC0805JR-073K3L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-0733KL,RC0805JR-0733KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-07300RL,RC0805JR-07300RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-072KL,RC0805JR-072KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,2 êÎì,±5%,805,0.125,,Datasheet
+RC0805JR-072K7L,RC0805JR-072K7L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-0724RL,RC0805JR-0724RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-07240RL,RC0805JR-07240RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,240 Îì,±5%,805,0.125,,Datasheet
+RC0805JR-0720KL,RC0805JR-0720KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-071K5L,RC0805JR-071K5L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-071K2L,RC0805JR-071K2L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-071K1L,RC0805JR-071K1L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-07180RL,RC0805JR-07180RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,180 Îì,±5%,805,0.125,,Datasheet
+RC0805JR-07150KL,RC0805JR-07150KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-0712KL,RC0805JR-0712KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-0710RL,RC0805JR-0710RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-0710KL,RC0805JR-0710KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±5%,805,0.125,,Datasheet
+RC0805JR-070RP,RC0805JR-070RP,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,0 Îì,±5%,805,0.125,,Datasheet
+RC0805JR-070RL,RC0805JR-070RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,0 Îì,±5%,805,0.125,,Datasheet
+RC0805JK-07300RL,RC0805JK-07300RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,300 êÎì,±5%,805,0.125,,Datasheet
+RC0805FR-078K2L,RC0805FR-078K2L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 êÎì",±1%,805,0.125,,Datasheet
