@@ -1,48 +1,48 @@
 Part Number,Manufacture,Library Ref,Footprint Ref,Library Path,Footprint Path,Value,Tolerance,Size,TKE,OperatTempRange,Voltage,ComponentLink1URL,ComponentLink1Description
-GRM188R61C106KAALD,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,10 ìêÔ,±10%,0603,X5R,-55 to +85°C,16 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C1H220JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,22 ïÔ,±5%,0603,C0G (NP0),-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R71H104KA93D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,1 ìêÔ",±10%,0603,X7R,-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R61C225KE15D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"2,2 ìêÔ",±10%,0603,X5R,-55 to +85°C,16 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R71C474KA88D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,470 íÔ,±10%,0603,X7R,-55 to +125°C,16 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C1H100JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,10 ïÔ,±5%,0603,C0G (NP0),-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R71C104KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,1 ìêÔ",±10%,0603,X7R,-55 to +125°C,16 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R71E104KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,1 ìêÔ,±10%,0603,X7R,-55 to +125°C,25 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R71E103KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,01 ìêÔ",±10%,0603,X7R,-55 to +125°C,25 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R71E472KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,4700 ïÔ,±10%,0603,X7R,-55 to +125°C,25 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R61H225KE11D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"2,2 ìêÔ",±10%,0603,X5R,-55 to +85°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C1H101JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,100 ïÔ,±5%,0603,C0G (NP0),-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R71A225KE15D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"2,2 ìêÔ",±10%,0603,X7R,-55 to +125°C,10 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R71H473KA61D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,47 íÔ,±10%,0603,X7R,-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R71E224KA88D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,220 íÔ,±10%,0603,X7R,-55 to +125°C,25 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R71H472KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"4,7 íÔ",±10%,0603,X7R,-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C2A102JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,1 íÔ,±5%,0603,C0G (NP0),-55 to +125°C,100 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C1H330JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,33 ïÔ,±5%,0603,C0G (NP0),-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C1H5R1CA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"5,1 ïÔ","±0,25 ïÔ",0603,C0G (NP0),-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R61H223KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,22 íÔ,±10%,0603,X5R,-55 to +85°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C1H680JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,68 ïÔ,±5%,0603,C0G (NP0),-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C1H6R8BA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"6,8 ïÔ","±0,1 ïÔ",0603,C0G (NP0),-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R71H331KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,330 ïÔ,±10%,0603,X7R,-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C1H2R2BA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"2,2 ïÔ","±0,1 ïÔ",0603,C0G (NP0),-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R61E475KE11D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"4,7 ìêÔ",±10%,0603,X5R,-55 to +85°C,25 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R61E106MA73D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,10 ìêÔ,±20%,0603,X5R,-55 to +85°C,25 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R61C475KE11D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"4,7 ìêÔ",±10%,0603,X5R,-55 to +85°C,16 V,\Datasheet\Murata.pdf,Datasheet
-GRM1883U1H102JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,1 íÔ,±5%,0603,UJ,-25 to +85°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C2A331JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,330 ïÔ,±5%,0603,C0G (NP0),-55 to +125°C,100 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C2A681JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,680 ïÔ,±5%,0603,C0G (NP0),-55 to +125°C,100 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C1H682JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,6800ïÔ,±5%,0603,C0G (NP0),-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R72A102KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,1 íÔ,±10%,0603,X7R,-55 to +125°C,100 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C1E681JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,680ïÔ,±5%,0603,C0G (NP0),-55 to +125°C,25 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C1H150JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,15 ïÔ,±5%,0603,C0G (NP0),-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C1H103JA01,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,01 ìêÔ",±5%,0603,C0G (NP0),-55 to +125°C,50 V,\Datasheet\Murata.pdf,Datasheet
-GRM1885C2A102JA01,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,1000 ïÔ,±5%,0603,C0G (NP0),-55 to +125°C,100 V,\Datasheet\Murata.pdf,Datasheet
-GRM188B11E103MA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,01 ìêÔ",±20%,0603,B,-25 to +85°C,25 V,\Datasheet\Murata.pdf,Datasheet
-GRM188B11E104MA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,1 ìêÔ",±20%,0603,B,-25 to +85°C,25 V,\Datasheet\Murata.pdf,Datasheet
-GRM188R61A106KE69D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,10 ìêÔ,±10%,0603,X5R,-55 to +85°C,10 V,,Datasheet
-GRM188R61H225KE11,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"2,2 ìêÔ",±10%,0603,X5R,-55 to +85°C,50 V,,Datasheet
-GRM188R71H333KA61D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,033 ìêÔ",±10%,0603,X7R,-55 to +125°C,50 V,,Datasheet
-GRM1885C1H5R1C,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"5,1 ïÔ","±0,25 ïÔ",0603,C0G (NP0),-55 to +125°C,50 V,,Datasheet
-GRM1885C1H681J,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,680 ïÔ,±5%,0603,C0G (NP0),-55 to +125°C,50 V,,Datasheet
-GRM1885C1Y390J,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,39 ïÔ,±5%,0603,C0G (NP0),-55 to +125°C,50B,,Datasheet
-GRM188R61A225K,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"2,2 ìêÔ",±10%,0603,X5R,-55 to +85°C,10 V,,Datasheet
-GRM188R71H102KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,1000 ïÔ,±10%,0603,X7R,-55 to +125°C,50 V,,Datasheet
-GRM188R71H104KA93,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,1 ìêÔ",±10%,0603,X7R,-55 to +125°C,50 V,,Datasheet
+GRM188R61C106KAALD,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,10 Ð¼ÐºÐ¤,Â±10%,0603,X5R,-55 to +85Â°C,16 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C1H220JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,22 Ð¿Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R71H104KA93D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,1 Ð¼ÐºÐ¤",Â±10%,0603,X7R,-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R61C225KE15D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"2,2 Ð¼ÐºÐ¤",Â±10%,0603,X5R,-55 to +85Â°C,16 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R71C474KA88D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,470 Ð½Ð¤,Â±10%,0603,X7R,-55 to +125Â°C,16 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C1H100JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,10 Ð¿Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R71C104KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,1 Ð¼ÐºÐ¤",Â±10%,0603,X7R,-55 to +125Â°C,16 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R71E104KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,1 Ð¼ÐºÐ¤,Â±10%,0603,X7R,-55 to +125Â°C,25 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R71E103KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,01 Ð¼ÐºÐ¤",Â±10%,0603,X7R,-55 to +125Â°C,25 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R71E472KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,4700 Ð¿Ð¤,Â±10%,0603,X7R,-55 to +125Â°C,25 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R61H225KE11D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"2,2 Ð¼ÐºÐ¤",Â±10%,0603,X5R,-55 to +85Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C1H101JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,100 Ð¿Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R71A225KE15D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"2,2 Ð¼ÐºÐ¤",Â±10%,0603,X7R,-55 to +125Â°C,10 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R71H473KA61D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,47 Ð½Ð¤,Â±10%,0603,X7R,-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R71E224KA88D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,220 Ð½Ð¤,Â±10%,0603,X7R,-55 to +125Â°C,25 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R71H472KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"4,7 Ð½Ð¤",Â±10%,0603,X7R,-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C2A102JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,1 Ð½Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,100 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C1H330JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,33 Ð¿Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C1H5R1CA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"5,1 Ð¿Ð¤","Â±0,25 Ð¿Ð¤",0603,C0G (NP0),-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R61H223KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,22 Ð½Ð¤,Â±10%,0603,X5R,-55 to +85Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C1H680JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,68 Ð¿Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C1H6R8BA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"6,8 Ð¿Ð¤","Â±0,1 Ð¿Ð¤",0603,C0G (NP0),-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R71H331KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,330 Ð¿Ð¤,Â±10%,0603,X7R,-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C1H2R2BA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"2,2 Ð¿Ð¤","Â±0,1 Ð¿Ð¤",0603,C0G (NP0),-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R61E475KE11D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"4,7 Ð¼ÐºÐ¤",Â±10%,0603,X5R,-55 to +85Â°C,25 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R61E106MA73D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,10 Ð¼ÐºÐ¤,Â±20%,0603,X5R,-55 to +85Â°C,25 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R61C475KE11D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"4,7 Ð¼ÐºÐ¤",Â±10%,0603,X5R,-55 to +85Â°C,16 V,\Datasheet\Murata.pdf,Datasheet
+GRM1883U1H102JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,1 Ð½Ð¤,Â±5%,0603,UJ,-25 to +85Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C2A331JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,330 Ð¿Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,100 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C2A681JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,680 Ð¿Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,100 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C1H682JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,6800Ð¿Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R72A102KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,1 Ð½Ð¤,Â±10%,0603,X7R,-55 to +125Â°C,100 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C1E681JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,680Ð¿Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,25 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C1H150JA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,15 Ð¿Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C1H103JA01,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,01 Ð¼ÐºÐ¤",Â±5%,0603,C0G (NP0),-55 to +125Â°C,50 V,\Datasheet\Murata.pdf,Datasheet
+GRM1885C2A102JA01,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,1000 Ð¿Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,100 V,\Datasheet\Murata.pdf,Datasheet
+GRM188B11E103MA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,01 Ð¼ÐºÐ¤",Â±20%,0603,B,-25 to +85Â°C,25 V,\Datasheet\Murata.pdf,Datasheet
+GRM188B11E104MA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,1 Ð¼ÐºÐ¤",Â±20%,0603,B,-25 to +85Â°C,25 V,\Datasheet\Murata.pdf,Datasheet
+GRM188R61A106KE69D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,10 Ð¼ÐºÐ¤,Â±10%,0603,X5R,-55 to +85Â°C,10 V,,Datasheet
+GRM188R61H225KE11,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"2,2 Ð¼ÐºÐ¤",Â±10%,0603,X5R,-55 to +85Â°C,50 V,,Datasheet
+GRM188R71H333KA61D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,033 Ð¼ÐºÐ¤",Â±10%,0603,X7R,-55 to +125Â°C,50 V,,Datasheet
+GRM1885C1H5R1C,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"5,1 Ð¿Ð¤","Â±0,25 Ð¿Ð¤",0603,C0G (NP0),-55 to +125Â°C,50 V,,Datasheet
+GRM1885C1H681J,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,680 Ð¿Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,50 V,,Datasheet
+GRM1885C1Y390J,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,39 Ð¿Ð¤,Â±5%,0603,C0G (NP0),-55 to +125Â°C,50B,,Datasheet
+GRM188R61A225K,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"2,2 Ð¼ÐºÐ¤",Â±10%,0603,X5R,-55 to +85Â°C,10 V,,Datasheet
+GRM188R71H102KA01D,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,1000 Ð¿Ð¤,Â±10%,0603,X7R,-55 to +125Â°C,50 V,,Datasheet
+GRM188R71H104KA93,Murata,Capacitor,CAPACITOR_0603,Capacitor.SchLib,Capacitor.PcbLib,"0,1 Ð¼ÐºÐ¤",Â±10%,0603,X7R,-55 to +125Â°C,50 V,,Datasheet
