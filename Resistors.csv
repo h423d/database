@@ -1,4 +1,4 @@
-ID,Part Number,Manufacture,Library Ref,Footprint Ref,Library Path,Footprint Path,Value,Tolerance,Size,Power,ComponentLink1URL,ComponentLink1Description
+ID,Part Number,Manufacture,Library Ref,Footprint Ref,Library Path,Footprint Path,Value,Tolerance,Size,Power,HelpURL,ComponentLink1Description
 RC0805JR-07680RL,RC0805JR-07680RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
 "Р1-12-0,125-1,27 кОм±1%-М","Р1-12-0,125-1,27 кОм±1%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
 "Р1-12-0,125-100 Ом±5%-М","Р1-12-0,125-100 Ом±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
