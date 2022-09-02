@@ -1,68 +1,69 @@
 ID,Part Number,Manufacture,Library Ref,Footprint Ref,Library Path,Footprint Path,Value,Tolerance,Size,Power,HelpURL,ComponentLink1Description
-RC0805JR-07680RL,RC0805JR-07680RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-"Р1-12-0,125-1,27 кОм±1%-М","Р1-12-0,125-1,27 кОм±1%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-100 Ом±5%-М","Р1-12-0,125-100 Ом±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-47 Ом±5%-М","Р1-12-0,125-47 Ом±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-82 Ом±5%-М","Р1-12-0,125-82 Ом±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-30 кОм±5%-М","Р1-12-0,125-30 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-100 кОм±5%-М","Р1-12-0,125-100 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-620 кОм±5%-М","Р1-12-0,125-620 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-120 кОм±5%-М","Р1-12-0,125-120 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-3,32 Ом±2%-М","Р1-12-0,125-3,32 Ом±2%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-3,57 Ом±2%-М","Р1-12-0,125-3,57 Ом±2%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-301 Ом±1%-Л","Р1-12-0,125-301 Ом±1%-Л",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-487 Ом±1%-Л","Р1-12-0,125-487 Ом±1%-Л",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-1,5 кОм±1%-Л","Р1-12-0,125-1,5 кОм±1%-Л",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-120 Ом±5%-М","Р1-12-0,125-120 Ом±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-620 Ом±5%-М","Р1-12-0,125-620 Ом±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-1,0 кОм±5%-М","Р1-12-0,125-1,0 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-1,5 кОм±5%-М","Р1-12-0,125-1,5 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-430 Ом±5%-М","Р1-12-0,125-430 Ом±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-510 кОм±5%-М","Р1-12-0,125-510 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-3,9 кОм±5%-М","Р1-12-0,125-3,9 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-"Р1-12-0,125-1 кОм±1%-Л-А","Р1-12-0,125-1 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-1,5 кОм±1%-М-А","Р1-12-0,125-1,5 кОм±1%-М-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-10 кОм±1%-Л-А","Р1-12-0,125-10 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-120 Ом±1%-Л-А","Р1-12-0,125-120 Ом±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-150 кОм±1%-Л-А","Р1-12-0,125-150 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-20 кОм±1%-Л-А","Р1-12-0,125-20 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-27 кОм±1%-Л-А","Р1-12-0,125-27 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-3,3 кОм±1%-Л-А","Р1-12-0,125-3,3 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-330 Ом±1%-Л-А","Р1-12-0,125-330 Ом±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-390 Ом±1%-Л-А","Р1-12-0,125-390 Ом±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-4,7 кОм±1%-Л-А","Р1-12-0,125-4,7 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-470 Ом±1%-Л-А","Р1-12-0,125-470 Ом±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-5,1 кОм±1%-Л-А","Р1-12-0,125-5,1 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-22,6 Ом ±1 %-Н","Р1-12-0,125-22,6 Ом ±1 %-Н",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-22,1 Ом ±1 %-Н","Р1-12-0,125-22,1 Ом ±1 %-Н",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-40,2 Ом ±1 %-Н","Р1-12-0,125-40,2 Ом ±1 %-Н",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,805,0.125,,Datasheet
-"Р1-12-0,125-0,15 Ом±20%-""А""","Р1-12-0,125-0,15 Ом±20%-""А""",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±20%,805,0.125,,Datasheet
-"Р1-12-0,125-1,6 кОм±10%-М","Р1-12-0,125-1,6 кОм±10%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±10%,805,0.125,,Datasheet
-RC0805JR-076K8L,RC0805JR-076K8L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-07680RL,RC0805JR-07680RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-075K1L,RC0805JR-075K1L,YAGEO,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-074K7L,RC0805JR-074K7L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-074K3L,RC0805JR-074K3L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-07470RL,RC0805JR-07470RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-073KL,RC0805JR-073KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,805,0.125,,Datasheet
-RC0805JR-073K6L,RC0805JR-073K6L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-073K3L,RC0805JR-073K3L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-0733KL,RC0805JR-0733KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-07300RL,RC0805JR-07300RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-072KL,RC0805JR-072KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,2 кОм,±5%,805,0.125,,Datasheet
-RC0805JR-072K7L,RC0805JR-072K7L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-0724RL,RC0805JR-0724RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-07240RL,RC0805JR-07240RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,240 Ом,±5%,805,0.125,,Datasheet
-RC0805JR-0720KL,RC0805JR-0720KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-071K5L,RC0805JR-071K5L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-071K2L,RC0805JR-071K2L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-071K1L,RC0805JR-071K1L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-07180RL,RC0805JR-07180RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,180 Ом,±5%,805,0.125,,Datasheet
-RC0805JR-07150KL,RC0805JR-07150KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-0712KL,RC0805JR-0712KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-0710RL,RC0805JR-0710RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-0710KL,RC0805JR-0710KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,805,0.125,,Datasheet
-RC0805JR-070RP,RC0805JR-070RP,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,0 Ом,±5%,805,0.125,,Datasheet
-RC0805JR-070RL,RC0805JR-070RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,0 Ом,±5%,805,0.125,,Datasheet
-RC0805JK-07300RL,RC0805JK-07300RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,300 кОм,±5%,805,0.125,,Datasheet
-RC0805FR-078K2L,RC0805FR-078K2L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±1%,805,0.125,,Datasheet
+RC0805JR-07680RL,RC0805JR-07680RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-1,27 кОм±1%-М","Р1-12-0,125-1,27 кОм±1%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-100 Ом±5%-М","Р1-12-0,125-100 Ом±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-47 Ом±5%-М","Р1-12-0,125-47 Ом±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-82 Ом±5%-М","Р1-12-0,125-82 Ом±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-30 кОм±5%-М","Р1-12-0,125-30 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-100 кОм±5%-М","Р1-12-0,125-100 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-620 кОм±5%-М","Р1-12-0,125-620 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-120 кОм±5%-М","Р1-12-0,125-120 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-3,32 Ом±2%-М","Р1-12-0,125-3,32 Ом±2%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-3,57 Ом±2%-М","Р1-12-0,125-3,57 Ом±2%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-301 Ом±1%-Л","Р1-12-0,125-301 Ом±1%-Л",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-487 Ом±1%-Л","Р1-12-0,125-487 Ом±1%-Л",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-1,5 кОм±1%-Л","Р1-12-0,125-1,5 кОм±1%-Л",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-120 Ом±5%-М","Р1-12-0,125-120 Ом±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-620 Ом±5%-М","Р1-12-0,125-620 Ом±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-1,0 кОм±5%-М","Р1-12-0,125-1,0 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-1,5 кОм±5%-М","Р1-12-0,125-1,5 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-430 Ом±5%-М","Р1-12-0,125-430 Ом±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-510 кОм±5%-М","Р1-12-0,125-510 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-3,9 кОм±5%-М","Р1-12-0,125-3,9 кОм±5%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-1 кОм±1%-Л-А","Р1-12-0,125-1 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-1,5 кОм±1%-М-А","Р1-12-0,125-1,5 кОм±1%-М-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-10 кОм±1%-Л-А","Р1-12-0,125-10 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-120 Ом±1%-Л-А","Р1-12-0,125-120 Ом±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-150 кОм±1%-Л-А","Р1-12-0,125-150 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-20 кОм±1%-Л-А","Р1-12-0,125-20 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-27 кОм±1%-Л-А","Р1-12-0,125-27 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-3,3 кОм±1%-Л-А","Р1-12-0,125-3,3 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-330 Ом±1%-Л-А","Р1-12-0,125-330 Ом±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-390 Ом±1%-Л-А","Р1-12-0,125-390 Ом±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-4,7 кОм±1%-Л-А","Р1-12-0,125-4,7 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-470 Ом±1%-Л-А","Р1-12-0,125-470 Ом±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-5,1 кОм±1%-Л-А","Р1-12-0,125-5,1 кОм±1%-Л-А",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-22,6 Ом ±1 %-Н","Р1-12-0,125-22,6 Ом ±1 %-Н",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-22,1 Ом ±1 %-Н","Р1-12-0,125-22,1 Ом ±1 %-Н",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-40,2 Ом ±1 %-Н","Р1-12-0,125-40,2 Ом ±1 %-Н",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-0,15 Ом±20%-""А""","Р1-12-0,125-0,15 Ом±20%-""А""",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±20%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+"Р1-12-0,125-1,6 кОм±10%-М","Р1-12-0,125-1,6 кОм±10%-М",,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±10%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-076K8L,RC0805JR-076K8L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-07680RL,RC0805JR-07680RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-075K1L,RC0805JR-075K1L,YAGEO,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-074K7L,RC0805JR-074K7L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-074K3L,RC0805JR-074K3L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-07470RL,RC0805JR-07470RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-073KL,RC0805JR-073KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,3 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-073K6L,RC0805JR-073K6L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-073K3L,RC0805JR-073K3L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-0733KL,RC0805JR-0733KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-07300RL,RC0805JR-07300RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-072KL,RC0805JR-072KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,2 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-072K7L,RC0805JR-072K7L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-0724RL,RC0805JR-0724RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-07240RL,RC0805JR-07240RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,240 Ом,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-0720KL,RC0805JR-0720KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-071K5L,RC0805JR-071K5L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-071K2L,RC0805JR-071K2L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-071K1L,RC0805JR-071K1L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-07180RL,RC0805JR-07180RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,180 Ом,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-07150KL,RC0805JR-07150KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-0712KL,RC0805JR-0712KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-0710RL,RC0805JR-0710RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-0710KL,RC0805JR-0710KL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-070RP,RC0805JR-070RP,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,0 Ом,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JR-070RL,RC0805JR-070RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,0 Ом,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805JK-07300RL,RC0805JK-07300RL,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,300 кОм,±5%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC0805FR-078K2L,RC0805FR-078K2L,Yageo,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±1%,@0805,0.125,/Datasheet/RC0805.pdf,Datasheet
+RC111111111,RC111111111,asd,Resistor,RESISTOR_0805,\SCH\Resistor.SchLib,\PCB\Resistor.PcbLib,"5,1 кОм",±1%,@0402,0.125,/Datasheet/RC0805.pdf,Datasheet
