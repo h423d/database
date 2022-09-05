@@ -10,7 +10,7 @@ goto :choice
 :somewhere
 
 SET mypath=%~dp0
-SET mypath=%mypath:~1,0%
+SET mypath=%mypath:~0,-1%
 echo %mypath%
 reg add "HKEY_CURRENT_USER\SOFTWARE\ODBC\ODBC.INI"
 reg add "HKEY_CURRENT_USER\SOFTWARE\ODBC\ODBC.INI\csvtest"
